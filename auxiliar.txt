@@ -1,0 +1,11 @@
+// Como poner las fuentes: 
+const styles = StyleSheet.create({
+  titulo: {
+    fontFamily: 'Marimpa', // El nombre del archivo tal cual
+    fontSize: 32,
+  },
+  cuerpo: {
+    fontFamily: 'Montserrat-Regular', // Si tu archivo se llama Montserrat-Regular.ttf
+    fontSize: 16,
+  },
+});
